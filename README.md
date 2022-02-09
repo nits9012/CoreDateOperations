@@ -7,7 +7,7 @@ Insert
 
 Fetch 
 
-<img src="fetch.png" width="850" height="350">
+<img src="fetch.png" width="850" height="300">
 
 Update 
 
