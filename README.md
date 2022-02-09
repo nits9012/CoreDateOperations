@@ -3,7 +3,7 @@
 
 Insert 
 
-<img src="insert.png" width="850" height="500">
+<img src="insert.png" width="850" height="450">
 
 Fetch 
 
