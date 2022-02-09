@@ -3,7 +3,7 @@
 
 Insert 
 
-<img src="insert.png" width="850" height="350">
+<img src="insert.png" width="850" height="400">
 
 Fetch 
 
@@ -15,4 +15,4 @@ Update
 
 Delete 
 
-<img src="delete.png" width="850" height="350">
+<img src="delete.png" width="850" height="400">
